@@ -57,3 +57,8 @@ the "New Internet"
 
 [1](https://ischoolonline.syr.edu/blog/what-is-the-decentralized-web/)<br>
 [2](https://techcrunch.com/2016/07/02/for-everyone/)
+
+#### Images:
+
+* [connections](http://www.desktopwallpaper4.me/abstract/connections-2087/)
+* [types-of-networks](https://poetryandnewmediaart.wordpress.com/graham-cook-3/)

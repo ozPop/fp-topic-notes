@@ -1,11 +1,13 @@
 require 'slide_hero'
 
 presentation 'distributed_web' do
-  set_plugins :class_list, :markdown, :highlight, :zoom, :notes, :remote, :leap
+  defaults headline_size: :medium, transition: :concave
+  set_plugins :markdown, :notes
   set_theme 'moon'
 
-  slide "What is distributed_web movement?" do
-    point :markdown ## this is
+  slide "What is distributed_web movement?", background: 'connections.jpg' do
+
+    note " OZZIE NOTES: The distributed web movement is blah blah blah "
   end
 
   grouped_slides do
@@ -17,20 +19,23 @@ presentation 'distributed_web' do
     slide "Tim Berners-Lee" do
       list do
         point "A Web that's open, works internationally, works as well as possible, and is not nation-based."
-        point "Some people think need another revolution in the architecture, a little one, to make the web work again in the way it was intended. I call it ‘re-decentralizing the web."
+        point "Some people think we need another revolution in the architecture, a little one, to make the web work again in the way it was intended. I call it ‘re-decentralizing the web."
       end
     end
 
-    slide "sss" do
-      point "something"
+    slide "Feross Aboukhadijeh" do
+      point "The Decentralized Web is a system of interconnected, independent, privately owned computers that work together to provide private, secure, censorship-resistant access to information and services."
     end
   end
 
-  slide "Second coming" do
-    point "Make presentations at the speed of thought"
-    point "Make ideas pop", animation: "grow"
-    list do
-      point "All kinds of awesome here"
-    end
+  slide "Why does it matter?" do
+
+    note "A growing number of people believe that the way the internet was envisioned in the early days has been moving into a much different direction."
+      point "Because the landscape of the web is getting too centralized", animation: "grow"
+      point ""
+      point "Because of the growing survailance and errosion of privacy", animation: "grow"
   end
+
+  
+
 end

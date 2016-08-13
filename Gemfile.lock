@@ -1,0 +1,17 @@
+GEM
+  remote: https://rubygems.org/
+  specs:
+    slide_hero (0.0.10)
+      thor (~> 0.18)
+      tilt (~> 1.4)
+    thor (0.19.1)
+    tilt (1.4.1)
+
+PLATFORMS
+  ruby
+
+DEPENDENCIES
+  slide_hero
+
+BUNDLED WITH
+   1.12.5

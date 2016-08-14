@@ -5,9 +5,9 @@ What is Distributed web movement?
 
 * Quotes from people involved
 
-  * Why its important
-    * Because the current net is getting too centralized
-    * Because of survailance
+* Why its important
+  * Because the current net is getting too centralized
+  * Because of survailance
 
 
 ### Gordon:

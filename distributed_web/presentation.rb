@@ -12,11 +12,13 @@ presentation 'distributed_web' do
 
   grouped_slides do
 
-    slide "Samer Hassan", transition: :cube do
+    slide "Samer Hassan" do
+      image "samer-hassan.jpg"
       point "Although originally decentralized, nowadays the Web is suffering the surveillance of U.S. centralized control monopolies. The Decentralized Web is the global effort to re-decentralize the infrastructure, protocols, applications and governance of the Web."
     end
 
     slide "Tim Berners-Lee" do
+      image "tim-berners-lee.jpg"
       list do
         point "A Web that's open, works internationally, works as well as possible, and is not nation-based."
         point "Some people think we need another revolution in the architecture, a little one, to make the web work again in the way it was intended. I call it ‘re-decentralizing the web."
@@ -25,13 +27,14 @@ presentation 'distributed_web' do
 
     slide "Feross Aboukhadijeh" do
       point "The Decentralized Web is a system of interconnected, independent, privately owned computers that work together to provide private, secure, censorship-resistant access to information and services."
+      image "feross-aboukhadijeh.jpg"
     end
   end
 
   slide "Why does it matter?" do
 
     note "A growing number of people believe that the way the internet was envisioned in the early days has been moving into a much different direction."
-      point "Because the landscape of the web is getting too centralized", animation: "grow"
+      point "Because the landscape of the web is becoming too centralized", animation: "grow"
       point ""
       point "Because of the growing survailance and errosion of privacy", animation: "grow"
   end

@@ -35,7 +35,7 @@ It can be applied in:
 * Identity - Revolutionizing how we verify, authorize and manage unique 
     identities across the web
 
-[Lots of good relatived info](http://www.blockchaintechnologies.com/blockchain-applications)
+[Lots of good related info](http://www.blockchaintechnologies.com/blockchain-applications)
 
 ### Distributed Verison control (e.g.: git)
 

@@ -11,7 +11,8 @@ _By Gordon Gao and Ozzie Popovas_
 
 * [Peer To Peer](https://en.wikipedia.org/wiki/Peer-to-peer)
 * [Blockchain Technology](https://en.wikipedia.org/wiki/Blockchain_(database))
-* [Bringing Decentralization to Identity with Blockchain ID and Onename] (https://www.youtube.com/watch?v=pKIlRMEJyc4)
+   * [Bringing Decentralization to Identity with Blockchain ID and Onename] (https://www.youtube.com/watch?v=pKIlRMEJyc4)
+   * [Blockchain Data Structure](http://i.stack.imgur.com/eOwjD.png)
 * [Distributed Version Control](https://en.wikipedia.org/wiki/Distributed_version_control)
 * [BitTorrent](https://en.wikipedia.org/wiki/BitTorrent)
     * [Bittorrent Explained](http://www.howtogeek.com/141257/htg-explains-how-does-bittorrent-work/)

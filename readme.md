@@ -11,6 +11,8 @@ _By Gordon Gao and Ozzie Popovas_
 
 * [Peer To Peer](https://en.wikipedia.org/wiki/Peer-to-peer)
 * [Blockchain Technology](https://en.wikipedia.org/wiki/Blockchain_(database))
+   * [What are Blockchain Technologies](http://www.blockchaintechnologies.com/)
+   * [Where is it stored?](https://www.quora.com/Where-is-the-blockchain-ledger-of-bitcoin-transactions-stored-and-how-is-it-being-backed-up)
    * [Bringing Decentralization to Identity with Blockchain ID and Onename] (https://www.youtube.com/watch?v=pKIlRMEJyc4)
    * [Blockchain Data Structure](http://i.stack.imgur.com/eOwjD.png)
 * [Distributed Version Control](https://en.wikipedia.org/wiki/Distributed_version_control)
@@ -37,6 +39,7 @@ MaidSafe - Distributed Data Management
 
 * [MaidSafe Official Site](http://maidsafe.net/)
 * [MaidSafe Getting Started](https://maidsafe.readme.io/docs/getting-started)
+* [What is MaidSafe](http://bravenewcoin.com/news/what-is-maidsafe-simplifying-decentralization-for-the-masses/)
 
 Blockstack - Distributed DNS For Blockchain Applications
 

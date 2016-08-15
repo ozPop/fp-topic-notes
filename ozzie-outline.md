@@ -1,7 +1,15 @@
 
 ## Ozzie:
 
-### Quotes
+### Intro: 
+
+What is decentralized_web movement?
+
+Some of you may have noticed the chatter about the decentralized web or at very
+least are aware of the relatively recent technologies that utilize the distributed 
+or decentralized architecture.
+
+### Quotes: 
 
   * Samer Hassan <sup>Berkman Center for Internet and Society at Harvard University</sup>
 

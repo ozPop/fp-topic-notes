@@ -1,13 +1,13 @@
 require 'slide_hero'
 
-presentation 'distributed_web' do
+presentation 'decentralized_web' do
   defaults headline_size: :medium, transition: :concave
   set_plugins :markdown, :notes
   set_theme 'moon'
 
-  slide "What is distributed_web movement?", background: 'connections.jpg' do
+  slide "What is decentralized_web movement?", background: 'connections.jpg' do
 
-    note " OZZIE NOTES: The distributed web movement is blah blah blah "
+    note " OZZIE NOTES: The decentralized web movement is blah blah blah "
   end
 
   grouped_slides do

@@ -7,7 +7,20 @@ presentation 'decentralized_web' do
 
   slide "What is decentralized_web movement?", background: 'connections.jpg' do
 
-    note " OZZIE NOTES: The decentralized web movement is blah blah blah "
+    note " Today, Gordon and I would like to tell you about a relatively recent development that is becoming known as 'The Decentralized Web Movement.'"
+  end
+
+  slide "We will inform you about:" do
+    list do
+      point "What the movement is about and why it is important"
+      point "Explain some of the foundational technologies"
+        list do
+          point "P2P networks"
+          point "Distributed architecture"
+          point "Blockchain technology"
+        end
+      point "Look at a few emerging technologies that could help decentralize the web"
+    end
   end
 
   grouped_slides do
@@ -41,6 +54,10 @@ presentation 'decentralized_web' do
 
   grouped_slides do 
 
+    slide "Testing2", background: 'types-of-networks.png' do
+
+    end
+    
     slide "Testing0", background: 'ipfs-illustration-centralized.svg' do
 
     end
@@ -49,9 +66,6 @@ presentation 'decentralized_web' do
 
     end
 
-    slide "Testing2", background: 'types-of-networks.png' do
-
-    end
 
 
   end

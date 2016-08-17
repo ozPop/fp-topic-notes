@@ -39,6 +39,24 @@ presentation 'decentralized_web' do
       point "Because of the growing survailance and errosion of privacy", animation: "grow"
   end
 
+  grouped_slides do 
+
+    slide "Testing0", background: 'ipfs-illustration-centralized.svg' do
+
+    end
+
+    slide "Testing1", background: 'ipfs-illustration-network.svg' do
+
+    end
+
+    slide "Testing2", background: 'types-of-networks.png' do
+
+    end
+
+
+  end
+
+
   
 
 end

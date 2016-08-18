@@ -84,7 +84,7 @@ presentation 'decentralized_web' do
         point "Use the prestige of attendees to boost community interest"
       end
       image "group-photo-summit.jpg"
-      note "Among the attendees were Sir Tim Berners-Lee (early web pioneer), Bewrster Khale (Internet Archive), Mitchell Baker (Mozilla Project), Vint Cerf (co-creator of TCP/IP). The hope seems to be that the reputation of some of the participants will boost peoples interest in this movement and technologies related to it."
+      note "Among the attendees were Sir Tim Berners-Lee (early web pioneer), Bewrster Khale (Internet Archive), Mitchell Baker (Mozilla Project), Vint Cerf (co-creator of TCP/IP). The hope seems to be that the reputation of some of the participants will boost peoples interest in this movement and technologies related to it. ===>> Lets swtich over to Gordon, who will tell us a little about some of these foundational technologies that the decentralized web may be based upon."
     end
   end
 
@@ -103,7 +103,7 @@ presentation 'decentralized_web' do
           point "Diverse Blockchain Applications"
         end
     end
-    note "Decentralizing the web will easy. In the past we could build things on top of existing tech, but today we may have to build something entirely new, based on more recent advances. Some people believe we can make this happen using some of the already existing distributed technologies."
+    note "Decentralizing the web will not easy. In the past we could build things on top of existing tech, but today we may have to build something entirely new, based on more recent advances. Some people believe we can make this happen using some of the already existing distributed technologies."
   end
 
   grouped_slides do
@@ -114,12 +114,12 @@ presentation 'decentralized_web' do
     end
     
     slide "Centralized", background: 'ipfs-illustration-centralized.svg' do
-      note " Most of us a familiar with this type of architecture which is based on client-server model where clients make requests and in most cases recieve recourses from a centralized location."
+      note " Most of us are familiar with this type of architecture which is based on client-server model where clients make requests and in most cases recieve recourses from a centralized location."
     end
 
-    slide "Peer to peer", background: 'ipfs-illustration-network.svg' do
+    slide "Peer to peer", background: 'networking.gif' do
       point "Distributed network technology"
-      note "Peer-to-peer technology enables peers (members) of the network to have equivalent capabilities and resposabilities when sharing resources without relying on centralized authority. In other words, in some cases, peers donate portions of processing power, memory, or network bandwith to other participating peers."
+      note "Peer-to-peer technology enables peers (members) of the network to have equivalent capabilities and resposabilities when sharing resources without relying on centralized authority. In other words, in some cases, peers donate portions of computing resources to other peers."
     end
 
     slide "Several types of P2P networks exist" do

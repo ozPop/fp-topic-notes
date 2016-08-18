@@ -24,11 +24,9 @@ The topic of Decentralized Web is not clearly defined and it means many things t
 
 At its inception, the internet was being designed to be decentralized. Today, some believe the web is turning into something that looks and works differently when compared with the expectations of the pioneers of the web.
 
-More recently, the web at large is becoming fragmented and those fragments (or 
-"silos" as per Berners-Lee) becoming heavily centralized, succeptible to 
-corportate and government control, censorship, poor privacy practices, relatively weak security and so on.
+More recently, the web at large is becoming fragmented and those fragments (or silos as per Berners-Lee) becoming heavily centralized. These data silos hold all the information about us and in some cases we can not control this data, nor use it in any other way.
 
-The web suffers from a lack of permanence and in some cases reliability.
+The web has become more succeptible to global surveilance aparatus, corportate and government control, censorship, poor privacy practices, relatively weak security, lack of permanence and in some cases reliability.
 
 These are some of the concerns of advocates who urge more people to get involved in projects and technologies that could help mitigate this shift. 
 

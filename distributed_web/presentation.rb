@@ -103,26 +103,28 @@ presentation 'decentralized_web' do
           point "Diverse Blockchain Applications"
         end
     end
-    note "Decentralizing the web will not easy. In the past we could build things on top of existing tech, but today we may have to build something entirely new, based on more recent advances. Some people believe we can make this happen using some of the already existing distributed technologies."
+    note "I will inform you about a few technologies that some Decentralized movement supporters believe, may be used in creating a better web."
   end
 
   grouped_slides do
 
     slide "" do
       image 'types-of-networks.png'
-      note "Here we have an example of types of networks. Currently the most dominant is the centralized architecture."
+      note "Here we have an example of a few types of networks. Currently the most dominant is the centralized architecture. Those who are familiar with Peer to Peer may have seen this Distributed type. Lastly, we have the decentralized network type."
     end
     
     slide "Centralized", background: 'ipfs-illustration-centralized.svg' do
-      note " Most of us are familiar with this type of architecture which is based on client-server model where clients make requests and in most cases recieve recourses from a centralized location."
+      point "The Client-Server model"
+      note " Most of us are familiar with this type of architecture. It is based on client-server model where clients make requests and in most cases recieve recourses from a centralized location."
     end
 
     slide "Peer to peer", background: 'networking.gif' do
       point "Distributed network technology"
-      note "Peer-to-peer technology enables peers (members) of the network to have equivalent capabilities and resposabilities when sharing resources without relying on centralized authority. In other words, in some cases, peers donate portions of computing resources to other peers."
+      note "Peer-to-peer based technologies are already being used by individuals and a number of companies. Tech based on P2P has potential for mass scale applications and is considered by some to be central to the Decentralized movement. In short, P2P enables members of the network, knowns as peers, to have equivalent capabilities and resposabilities when sharing resources without relying on a centralized authority."
     end
 
     slide "Several types of P2P networks exist" do
+      image 'p2p-binary.jpg'
       list do
         point "Collaborative computing"
         point "Instant messaging"
@@ -132,24 +134,25 @@ presentation 'decentralized_web' do
     end
 
     slide "Amazon Cloud Correlation" do
-      note "Amazon cloud cluster a hybrid between centralized and distributed computing. Data is often stored and proccessed in various locations of the globe to improve reliability and performance. || What if we could make the next generation Web work like that across the entire Internet. AWS provides an exceptional service, there is no denying that, but when it comes to hosting resources, what if we could enable everyone resposible for providing content as much as consuming?"
+      image 'aws-global.png'
+      note "Amazon cloud is hybrid between centralized and distributed computing. Data is often stored and proccessed in various locations of the globe to improve reliability and performance. || What if we could make the next generation Web work like that across the entire Internet? AWS provides an exceptional service and will continue to do so, but what if we came up with reliable technology that involved everyone to provide content as much as consume it?"
     end
 
-    slide "BiTorrent... Arrrrrgg" do
+    slide "BitTorrent"do
       list do
-        point "Blizzard uses BiTorrent to distributed their games and updates"
-        point "Facebook and Twitter use BiTorrent internally"
+        point "Blizzard uses BitTorrent to distributed their games and updates"
+        point "Facebook and Twitter use BitTorrent internally"
         point "The Internet Archive offers their content through this technology"
         point "Government Agencies use it"
-        point "Linux ISO's are distributed using BiTorrent"
+        point "Linux ISO's are distributed using BitTorrent"
       end
 
-      note "Some of you may have heard of Bittorent protocol (based on P2P architecture) being used for illegal file sharing. Here are some exmaples of legitimate uses of this protocol."
+      note "Some of you may have heard of BitTorent protocol (based on P2P architecture) being used for illegal file sharing. Here are some exmaples of legitimate uses of this protocol."
     end
 
     slide "needs image" do
       # add related image
-      note "Some people believe, the more organizations and inviduals that would become involved, the more redundant, safe and fast the services would become. P2P based technologies could help us achieve that."
+      note "The power behind distributed networks is in numbers. The more organizations and inviduals that get involved, the more redundant, safe and fast the services would become. Proponents of decentralization believe that P2P based technologies could help us achieve a more decentralized web."
     end
 
   end

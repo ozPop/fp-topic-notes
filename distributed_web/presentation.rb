@@ -120,7 +120,7 @@ presentation 'decentralized_web' do
 
     slide "Peer to peer", background: 'networking.gif' do
       point "Distributed network technology"
-      note "Peer-to-peer based technologies are already being used by individuals and a number of companies. Tech based on P2P has potential for mass scale applications and is considered by some to be central to the Decentralized movement. In short, P2P enables members of the network, knowns as peers, to have equivalent capabilities and resposabilities when sharing resources without relying on a centralized authority."
+      note "Peer-to-peer based technologies are already being used by individuals and a number of companies. Tech based on P2P has potential for mass scale applications and is considered by some to be central to the Decentralized movement. In short, P2P enables members of the network, known as peers, to have equivalent capabilities and resposabilities when sharing resources without relying on a centralized authority."
     end
 
     slide "Several types of P2P networks exist" do
@@ -130,7 +130,7 @@ presentation 'decentralized_web' do
         point "Instant messaging"
         point "Affinity Communities"
       end
-      note " Collaborative computing - combines idle or unused resource of individual workstations AKA Distibuted computing || Instant messaging - enables real time communication || Affinity Communities - based around file distribution"
+      note "There exist several types of P2P networs. Collaborative computing - combines idle or unused resource of individual workstations AKA Distibuted computing || Instant messaging - enables real time communication || Affinity Communities - are based around file distribution"
     end
 
     slide "Amazon Cloud Correlation" do
@@ -144,7 +144,7 @@ presentation 'decentralized_web' do
         point "Facebook and Twitter use BitTorrent internally"
         point "The Internet Archive offers their content through this technology"
         point "Government Agencies use it"
-        point "Linux ISO's are distributed using BitTorrent"
+        point "Linux is distributed using BitTorrent"
       end
 
       note "Some of you may have heard of BitTorent protocol (based on P2P architecture) being used for illegal file sharing. Here are some exmaples of legitimate uses of this protocol."
@@ -152,7 +152,7 @@ presentation 'decentralized_web' do
 
     slide "needs image" do
       # add related image
-      note "The power behind distributed networks is in numbers. The more organizations and inviduals that get involved, the more redundant, safe and fast the services would become. Proponents of decentralization believe that P2P based technologies could help us achieve a more decentralized web."
+      note "The power behind distributed networks is in numbers. The more organizations and inviduals that get involved, the more redundant, and fast the services would become. Supporters of decentralization believe that P2P based technologies could help us achieve a more decentralized web."
     end
 
   end
@@ -162,7 +162,7 @@ presentation 'decentralized_web' do
     slide "Blockchain technology" do
       # add slide related to this
       point "Blockchain technology could help manage and secure the Decentralized Web data."
-      note "A blockchain (aka distributed ledger) is comprised of unchangable, digitally recorded data in packages called blocks."
+      note "The next technology I would like to bring to your attention is Blockchain technology which could be used to manage and secure Decentralized data. A blockchain also known as a distributed ledger is comprised of unchangable, digitally recorded data in packages called blocks."
     end
 
     slide "Blockchain technology p2" do
@@ -177,7 +177,7 @@ presentation 'decentralized_web' do
         point "Contracts - self executing and self enforcing contracts"
         point "Identity - verify, authorize and manage unique identities"
       end
-      note "Finance - Secure and instant transactions involving currency || Property - It can be used to track unique histories of physical and  non-physical property || Contracts - Programmable, self executing and self enforcing contracts. Applicable in various industries such as the Music and Real Estate || Identity - Revolutionizing how we verify, authorize and manage unique identities across the web"
+      note "Blockchain technology has multiple applications. In finance we may have secure and instant transactions involving currency || It can be used to track unique histories of physical and  non-physical property || We may create programmable, self executing and self enforcing contracts. Applicable in industries such as the Music and Real Estate || It could revolutionize how we verify, authorize and manage unique identities across the web"
     end
   end
 
@@ -195,7 +195,7 @@ presentation 'decentralized_web' do
         point "Making most operations fast"
         point "Communication is only necessary when sharing changes"
       end
-      note "As oposed to a centralized repository that everyone was working with, git enabled us all to have our own copy of the codebase and introduced some important differences from a centralized system. || Now let us turn back to Ozzie who will give us a glimpse at some of the emerging technologies."
+      note "As oposed to a centralized repository that everyone was working with, git enabled us all to have our own copy of the codebase and introduced some important differences from a centralized system. || Now let us turn back to Ozzie who will show us some of the emerging decentralized technologies."
     end
   end
 
